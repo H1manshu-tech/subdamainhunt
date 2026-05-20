@@ -36,3 +36,11 @@ Before firing up the engine, ensure your Kali Linux environment contains the cor
 
 ```bash
 sudo apt update && sudo apt install subfinder assetfinder sublist3r amass knockpy curl jq -y
+
+
+Cloning the Project
+https://github.com/H1manshu-tech/subdamainhunt.git
+cd subdamainhunt
+chmod +x me_shunt.sh
+./mr_shunt.sh
+
